@@ -1,0 +1,12 @@
+
+public class Problem_21 {
+	public static void main(String args[]){
+		int tally = 0;
+		for(int y = 1; y <= 10000; y ++){
+			
+		}
+	}
+	public static int factor[](int number){
+		
+	}
+}

@@ -1,0 +1,8 @@
+
+public class Problem_20 {
+	public static void main(String args[]){
+		int n = 100;
+		int Sum = 0;
+		
+	}
+}

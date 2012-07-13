@@ -1,0 +1,18 @@
+import java.math.BigInteger;
+
+public class Problem_20 {
+	public static void main(String args[]){
+		int n = 100;
+		int Sum = 0;
+		
+	}
+	public static BigInteger factorial( BigInteger n )
+	{
+			if ( n.compareTo(BigInteger.ZERO) <= 0 ) { // base case
+				return BigInteger.ONE;
+			}
+			else  {  // general case
+				return ( n.multiply(factorial ( n.subtract(BigInteger.ONE)) ) );
+			}
+	}
+}

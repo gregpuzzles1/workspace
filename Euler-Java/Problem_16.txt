@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/4582277/biginteger-powbiginteger
+
+http://stackoverflow.com/questions/3028380/how-to-convert-biginteger-to-string-in-java
+
+http://stackoverflow.com/questions/196830/what-is-the-easiest-best-most-correct-way-to-iterate-through-the-characters-of-a
