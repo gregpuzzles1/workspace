@@ -1,0 +1,20 @@
+var Test = 
+{
+init: function()
+{
+	document.write(Test.writeThis(7));
+},
+
+writeThis: function(n)
+{
+	if(n == 5){
+		//document.write("Greg is Cool!", "<br />");
+		return true;
+	}
+	else{
+		return false;
+	}
+	
+}
+};
+Test.init();

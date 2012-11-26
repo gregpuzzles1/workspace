@@ -1,0 +1,16 @@
+var Test = {}
+
+document.write(writeThis(7));
+
+writeThis: function(n)
+{
+	if(n == 5){
+		//document.write("Greg is Cool!", "<br />");
+		return true;
+	}
+	else{
+		return false;
+	}
+	
+}
+};

@@ -1,0 +1,27 @@
+var Test = 
+{
+init: function()
+{
+	var truth = 5;
+	document.write(Test.writeThis(truth));
+},
+
+writeThis: function(n)
+{
+	var k = int(Math.sqrt(n));
+	if(n == 1){
+		return false;
+	}
+	if(n == 2){
+		return true;
+	}
+	for(var i = 2; i <= k; i++){
+		if(n % i == 0){
+			return false;
+		}
+	}
+	return true;
+	
+}
+};
+Test.init();

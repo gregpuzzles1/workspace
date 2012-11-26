@@ -1,0 +1,23 @@
+function isPrime(n)
+{
+	var k = int(Math.sqrt(n));
+	if(n == 1)
+	{
+		return false;
+	}
+	if(n == 2)
+	{
+		return true;
+	}
+	for(var i = 2; i <= k; i++)
+	{
+		if(n % 2 == 0)
+		{
+			return false;
+		}
+	}
+	return true;
+}
+
+var truth = isPrime(5);
+document.write(truth);

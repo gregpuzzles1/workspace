@@ -1,0 +1,57 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\GREG\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\MazeGame\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+mazeclass|0|C:\Users\GREG\workspace\MazeGame\mazeclass.py
+test|0|C:\Users\GREG\workspace\MazeGame\test.py
+mazegame|0|C:\Users\GREG\workspace\MazeGame\mazegame.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=Maze
+7=Maze.__init__
+1=mazeclass
+5=Cell
+3=test
+6=Maze.reset
+2=mazegame
+8=Cell.__init__
+-- END DICTIONARY
+-- START TREE 1
+21
+bla|1|black!11@
+blu|1|blue!11@
+cel|1|Cell!9@
+clo|1|clock!19@
+dfs|1|dfs!18@
+don|1|done!19@
+gra|1|gray!11@
+gre|1|green!11@
+lig|1|lightblue!11@
+maz|2|Maze!9@mazegrid!19@
+pur|1|purple!11@
+red|1|red!11@
+say|1|saying!27@
+scr|1|screen!19@
+set|1|setpath!18@
+sho|1|shortestpath!18@
+siz|1|size!19@
+the|1|the_maze!19@
+whi|1|white!11@
+x|1|x!27@
+yel|1|yellow!11@
+-- END TREE
+-- START TREE 2
+11
+__i|2|__init__!4&10@__init__!5&10@
+bot|4|bot_ycoord!6&11@bot_ycoord!7&11@bot_xcoord!6&11@bot_xcoord!7&11@
+col|1|columns!7&11@
+cos|1|cost!8&11@
+dis|1|display_maze!4&10@
+dra|8|draw_bot!4&10@draw_visitedsquare!4&10@draw_wallsquare!4&10@draw_revisitedsquare!4&10@draw_examinedsquare!4&10@draw_perimsquare!4&10@draw_exitsquare!4&10@draw_plainsquare!4&10@
+gri|1|grid!7&11@
+par|1|parent!8&11@
+res|1|reset!4&10@
+row|1|rows!7&11@
+sta|1|status!8&11@
+-- END TREE
