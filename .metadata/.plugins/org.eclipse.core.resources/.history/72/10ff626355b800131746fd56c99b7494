@@ -1,0 +1,9 @@
+import PyQt4
+print "PyQt4 successfully imported!"
+from PIL import Image
+print "PIL successfully imported!"
+import numpy
+print "numpy successfully imported!"
+im = Image.open("IMG_1346.JPG")
+im.resize(100)
+im.rotate(45).show()

@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\GREG\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\PyDev-Test\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+test_one|0|C:\Users\GREG\workspace\PyDev-Test\test_one.py
+import|0|C:\Users\GREG\workspace\PyDev-Test\import.py
+sample|0|C:\Users\GREG\workspace\PyDev-Test\sample.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=Example
+2=test_one
+3=import
+1=sample
+-- END DICTIONARY
+-- START TREE 1
+4
+exa|1|Example!9@
+log|1|Login!18@
+mai|3|main!10@main!26@main!18@
+mat|1|matchpassword!18@
+-- END TREE
+-- START TREE 2
+2
+__i|1|__init__!4&10@
+ini|1|initUI!4&10@
+-- END TREE

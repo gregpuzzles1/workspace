@@ -1,0 +1,176 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1015063775360011871.jar",1396208383746
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2020740089074956838.jar",1396208384149
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4364485911240139008.jar",1396208384244
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2359854857878125186.jar",1396208384543
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1739094956580090947.jar",1396208384707
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3463707956201868909.jar",1396208384728
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8954054207850292168.jar",1396208385133
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1876865386428940796.jar",1396208385235
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile31817567688529358.jar",1396208385551
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1637795256493062516.jar",1396208385678
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3785016495794870056.jar",1396208385884
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4274388095333902063.jar",1396208386018
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4472698658517626132.jar",1396208386926
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7144088142376318919.jar",1396208386999
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7947551196754412022.jar",1396208387292
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4689265656625284051.jar",1396208387622
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5856936681808836714.jar",1396208388066
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4642818767043881378.jar",1396208388146
+error,log,,,"An error occurred while collecting items to be installed",1396208388945
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396208481984
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396208487431
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209252848
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209256507
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209293938
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209293946
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209294222
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2518229714631223638.jar",1396209294511
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2032248366808005067.jar",1396209294636
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6676172418203710572.jar",1396209294832
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile574325075217664684.jar",1396209295064
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile876572694567270479.jar",1396209295301
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile358923528508923497.jar",1396209295602
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8131146536948098336.jar",1396209296089
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile755626810739456757.jar",1396209296108
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile9171142087542873415.jar",1396209296284
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7039213196961934626.jar",1396209296422
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7394993729243275734.jar",1396209296593
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2260606494775586536.jar",1396209296958
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2132474886568868965.jar",1396209297170
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2361316760566410187.jar",1396209297323
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6191739431816900061.jar",1396209297890
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5819879692068188424.jar",1396209298117
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8809749382766831184.jar",1396209298573
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8430399226397319614.jar",1396209298608
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile112798828351540670.jar",1396209298941
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile654882220675135016.jar",1396209299850
+error,log,,,"An error occurred while collecting items to be installed",1396209300023
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209309260
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209313398
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209339548
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209339559
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209339829
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7626580480433372228.jar",1396209340020
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4959356713072071036.jar",1396209340077
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2117686989134146399.jar",1396209340484
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8112924471806653923.jar",1396209340654
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3297472114591137360.jar",1396209340711
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4209374647251998832.jar",1396209340776
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3201718911550164225.jar",1396209341067
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8653837538469397435.jar",1396209341174
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6787301696259884749.jar",1396209341649
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6157626401515937739.jar",1396209341842
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7953414230125889568.jar",1396209342114
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2440287642980327112.jar",1396209342316
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1371413747769831453.jar",1396209343178
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3711934967691873571.jar",1396209343304
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile9126250858386452427.jar",1396209343898
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6435878664223880586.jar",1396209344380
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2476113969263359846.jar",1396209345066
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile947997400905443973.jar",1396209346127
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7720474660147446236.jar",1396209346245
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4449288164987205901.jar",1396209346361
+error,log,,,"An error occurred while collecting items to be installed",1396209347890
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209349679
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209354630
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209373140
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209373149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209373423
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7435917438065502599.jar",1396209373596
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5898959814791717258.jar",1396209373719
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8500531687713625605.jar",1396209373737
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2561600308351203669.jar",1396209373884
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5646060191687673735.jar",1396209374036
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4221524751449023739.jar",1396209374281
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7263793798249988331.jar",1396209374331
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1981271498003772512.jar",1396209374818
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5724089267297275505.jar",1396209374972
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5744850649795010515.jar",1396209375124
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4476858949236935823.jar",1396209375205
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8963047281969467830.jar",1396209375552
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2488161388260629662.jar",1396209375741
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3821698794007537444.jar",1396209375863
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7251402341651122476.jar",1396209376665
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1794329630031363284.jar",1396209376666
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7174058167807489937.jar",1396209377299
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile383475454414663181.jar",1396209377446
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4740395563457470444.jar",1396209377752
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile672649448398256288.jar",1396209378906
+error,log,,,"An error occurred while collecting items to be installed",1396209379870
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209381486
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209384942
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209405149
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209405156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209405424
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6211649028376373281.jar",1396209405600
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5763749469092597539.jar",1396209405638
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile411549447433941177.jar",1396209405701
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4884119698741647913.jar",1396209405845
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2217405011497965846.jar",1396209406050
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3996208650908766470.jar",1396209406286
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1595185232350580911.jar",1396209406770
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1198292961558661845.jar",1396209406774
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile9037614437616881248.jar",1396209406916
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2326779284677055897.jar",1396209407307
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7921196394943173761.jar",1396209407326
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5986411489306559044.jar",1396209407752
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3409249951323357897.jar",1396209407760
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3040080362532545482.jar",1396209408313
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1665625187361195841.jar",1396209408707
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile176955773417159049.jar",1396209408730
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5520352188855245821.jar",1396209409569
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2183949596087133233.jar",1396209410075
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2687262349046079965.jar",1396209410720
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4035039774559946176.jar",1396209410898
+error,log,,,"An error occurred while collecting items to be installed",1396209411642
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209412960
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209415913
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209434065
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209434079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209434350
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4400653551038569726.jar",1396209434551
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2942146505485885904.jar",1396209434563
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8548061854462125186.jar",1396209434627
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile9035615937295344072.jar",1396209435078
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile6068276912656376767.jar",1396209435228
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4546830364869967104.jar",1396209435477
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2749593399094002697.jar",1396209435677
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile1564070842125084903.jar",1396209436136
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile4135259860206657826.jar",1396209436418
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile194022654266247302.jar",1396209436507
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2291787489721255620.jar",1396209436639
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8643321632940288282.jar",1396209436952
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile5534053828886250201.jar",1396209436984
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2509810695862317349.jar",1396209437754
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3838373432495836200.jar",1396209438183
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile9033065228474166977.jar",1396209438420
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile8286217583026391824.jar",1396209438771
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile2659027076807038861.jar",1396209440226
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile7338928873443358735.jar",1396209440297
+error,log,,,"Either the manifest file or the signature file has been tampered in this jar: C:\\Users\\GREG\\AppData\\Local\\Temp\\signatureFile3563111572896772108.jar",1396209440996
+error,log,,,"An error occurred while collecting items to be installed",1396209441852
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209443353
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209448112
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209469166
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.install",1396209469179
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209469452
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209493444
+started,bundle,org.eclipse.equinox.frameworkadmin.equinox,1.0.300.v20110815-1438,"org.eclipse.equinox.frameworkadmin.equinox",1396209493487
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209500103
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209501764
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1396209501901
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1396209502699
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.105.v201004211805,"org.eclipse.jst.ws.axis2.consumption.core",1396209502700
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.303.v201003110431,"org.eclipse.jst.ws.axis2.ui",1396209502701
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.204.v201004211805,"org.eclipse.jst.ws.axis2.core",1396209502701
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.ui",1396209502701
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.609.v201103082016,"org.eclipse.jst.ws.creation.ui",1396209502701
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.ui",1396209502701
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1396209502701
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.603.v201202012024,"org.eclipse.jst.ws.consumption",1396209502701

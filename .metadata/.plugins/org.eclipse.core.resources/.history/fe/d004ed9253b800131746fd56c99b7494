@@ -1,0 +1,6 @@
+import PyQt4
+print "PyQt4 successfully imported!"
+from PIL import Image
+print "PIL successfully imported!"
+import numpy
+print "numpy successfully imported!"

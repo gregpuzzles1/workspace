@@ -1,7 +1,6 @@
 INDEX VERSION 1.122+C:\Users\GREG\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 824051038.index
 2523114547.index
-2336301374.index
 1612230971.index
 4254549517.index
 3816686285.index

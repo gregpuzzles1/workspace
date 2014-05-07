@@ -1,0 +1,4 @@
+saying = "Is this going to work?"
+for i in range(1, 25):
+	print saying
+	
