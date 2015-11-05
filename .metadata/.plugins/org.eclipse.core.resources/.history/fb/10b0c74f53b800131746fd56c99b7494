@@ -1,6 +1,0 @@
-import PyQt4
-print "PyQt4 successfully imported!"
-import PIL
-print "PIL successfully imported!"
-import numpy
-print "numpy successfully imported!"

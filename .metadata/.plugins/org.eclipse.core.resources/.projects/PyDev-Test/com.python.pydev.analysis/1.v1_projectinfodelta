@@ -1,7 +1,5 @@
-INSTUPtest_one
-C:\Users\GREG\workspace\PyDev-Test\test_one.py
-INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0
-Login=1
-matchpassword=3
-test_one=2
-main=4
+INSTUPimport
+C:\Users\GREG\workspace\PyDev-Test\import.py
+INFOS:&&2|1|2|0
+import=2
+main=1
