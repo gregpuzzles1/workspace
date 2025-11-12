@@ -12,7 +12,7 @@ This repository contains solutions to various problems from [Project Euler](http
 
 ### Java
 
-1. Navigate to the `java/` directory.
+1. Navigate to the `Euler-Java/src` directory.
 2. Compile Java files using:
    ```
    javac Problem_01.java
