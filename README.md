@@ -4,9 +4,9 @@ This repository contains solutions to various problems from [Project Euler](http
 
 ## Structure
 
-- `java/` – Solutions implemented in Java
-- `javascript/` – Solutions implemented in JavaScript
-- Each file is typically named according to the Project Euler problem number (e.g., `Problem1.java`, `problem1.js`)
+- `Euler-Java/src/` – Solutions implemented in Java
+- `Javascript/` – Solutions implemented in JavaScript
+- Each file is typically named according to the Project Euler problem number (e.g., `Problem_01.java`, `problem_01.js`)
 
 ## Getting Started
 
@@ -15,11 +15,11 @@ This repository contains solutions to various problems from [Project Euler](http
 1. Navigate to the `java/` directory.
 2. Compile Java files using:
    ```
-   javac Problem1.java
+   javac Problem_01.java
    ```
 3. Run using:
    ```
-   java Problem1
+   java Problem_01
    ```
 
 ### JavaScript
@@ -27,7 +27,7 @@ This repository contains solutions to various problems from [Project Euler](http
 1. Navigate to the `javascript/` directory.
 2. Run JavaScript files with Node.js:
    ```
-   node problem1.js
+   node problem_01.js
    ```
 
 ## Contributing
